@@ -4,4 +4,4 @@ This repository is naught but a place to store [#helpwanted](https://github.com/
 
 Making a request for help here and it will show up all over the place. Code for America promotes these widely through http://www.codeforamerica.org/geeks/civicissues and other tools.
 
-## To make a new request for help [click here](https://github.com/codeforamerica/helpwanted/issues/new&title=Description+of+the+help+wanted&labels=help+wanted).
+## To make a new request for help [click here](https://github.com/codeforamerica/helpwanted/issues/new?title=Description+of+the+help+wanted&labels=help+wanted).
